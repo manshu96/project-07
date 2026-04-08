@@ -874,7 +874,7 @@ font-size: 1.7rem;
 
 
 .section7{
-    height: 211vh;
+    height: max-content;
     width: 100%;
 }
 
