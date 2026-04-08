@@ -394,7 +394,7 @@ nav .rightPart{
 .h1Wala{
     margin-top: 10vw;
     width: 100%;
-    height: 1300px;
+    height: max-content;
     /* background-color: rgb(187, 177, 177); */
     font-size: 1.3rem;
     font-family: bFontOne, sans-serif;
