@@ -2072,7 +2072,8 @@ footer a{
     }
 
     .logoWala {
-        height: 15vh;
+        margin-top: 1vw;
+        height: max-content;
         width: 100%;
         padding: 0vw 2vw;
     }
